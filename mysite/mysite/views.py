@@ -10,7 +10,7 @@ def index(request):
 
 def signin(request):
     if request.method=='POST':
-        username=request.POST.get('username')
+        username=request.POST.get('username').lower()
         password=request.POST.get('password')
         user=authenticate(request,username=username,password=password)
         if user is not None:
@@ -22,7 +22,7 @@ def signin(request):
 
 def register(request):
     if request.method=='POST':
-        uname=request.POST.get('username')
+        uname=request.POST.get('username').lower()
         email=request.POST.get('email')
         password1=request.POST.get('password1')
         password2=request.POST.get('password2')
