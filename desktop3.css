@@ -1,0 +1,436 @@
+.desktop3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop3-desktop3 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop3-background {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+}
+.desktop3-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 196px;
+  position: absolute;
+}
+.desktop3-join-now-box {
+  top: 102px;
+  left: 318px;
+  width: 436px;
+  height: 45px;
+  position: absolute;
+  border-radius: 114px;
+}
+.desktop3-line2 {
+  top: 231px;
+  left: 465px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-line3 {
+  top: 231px;
+  left: 579px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-line4 {
+  top: 231px;
+  left: 760px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-line5 {
+  top: 231px;
+  left: 963px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-line6 {
+  top: 231px;
+  left: 1166px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-line1 {
+  top: 231px;
+  left: 251px;
+  width: 35px;
+  height: 1px;
+  position: absolute;
+}
+.desktop3-text {
+  top: 234px;
+  left: 150px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text02 {
+  top: 234px;
+  left: 285px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text04 {
+  top: 234px;
+  left: 499px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text06 {
+  top: 234px;
+  left: 613px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text08 {
+  top: 234px;
+  left: 794px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text10 {
+  top: 234px;
+  left: 994px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text12 {
+  top: 234px;
+  left: 1197px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text14 {
+  top: 110px;
+  left: 350px;
+  color: rgba(90, 89, 89, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-rectangle3 {
+  top: 301px;
+  left: 0px;
+  width: 1440px;
+  height: 722px;
+  position: absolute;
+}
+.desktop3-rectangle4 {
+  top: 363px;
+  left: 84px;
+  width: 1271px;
+  height: 577px;
+  position: absolute;
+  border-color: rgba(127, 127, 127, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 51px;
+}
+.desktop3-rectangle5 {
+  top: 424px;
+  left: 145px;
+  width: 471px;
+  height: 452px;
+  position: absolute;
+  border-radius: 51px;
+}
+.desktop3-maskgroup {
+  top: 444px;
+  left: 166px;
+  width: 429px;
+  height: 412px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop3-logo {
+  top: -352px;
+  left: -53px;
+  width: 170px;
+  height: 66px;
+  position: absolute;
+}
+.desktop3-ellipse2 {
+  top: -362px;
+  left: 858px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+}
+.desktop3-maskgroup1 {
+  top: -357px;
+  left: 863px;
+  width: 76px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop3-ellipse3 {
+  top: 0px;
+  left: 0px;
+  width: 76px;
+  height: 76px;
+  position: absolute;
+}
+.desktop3-image1 {
+  top: 0px;
+  left: -16px;
+  width: 105px;
+  height: 89px;
+  position: absolute;
+}
+.desktop3-rectangle10 {
+  top: 520px;
+  left: 917px;
+  width: 272px;
+  height: 54px;
+  position: absolute;
+  border-radius: 51px;
+}
+.desktop3-text16 {
+  top: 526px;
+  left: 979px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-chatbot2 {
+  top: 526px;
+  left: 924px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.desktop3-profile2 {
+  top: -37px;
+  left: -30px;
+  width: 489px;
+  height: 486px;
+  position: absolute;
+}
+.desktop3-join-now-box1 {
+  top: 98px;
+  left: 1029px;
+  width: 318px;
+  height: 49px;
+  position: absolute;
+  border-radius: 114px;
+}
+.desktop3-text18 {
+  top: 108px;
+  left: 1127px;
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text20 {
+  top: 567px;
+  left: 743px;
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text22 {
+  top: 670px;
+  left: 818px;
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text24 {
+  top: 639px;
+  left: 820px;
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-text26 {
+  top: 702px;
+  left: 886px;
+  color: rgba(48, 48, 48, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop3-logo1 {
+  top: 92px;
+  left: 113px;
+  width: 170px;
+  height: 66px;
+  position: absolute;
+}
+.desktop3-ellipse31 {
+  top: 82px;
+  left: 1024px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+}
+.desktop3-maskgroup2 {
+  top: 87px;
+  left: 1029px;
+  width: 76px;
+  height: 76px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop3-ellipse32 {
+  top: 0px;
+  left: 0px;
+  width: 76px;
+  height: 76px;
+  position: absolute;
+}
+.desktop3-image11 {
+  top: 0px;
+  left: -16px;
+  width: 105px;
+  height: 89px;
+  position: absolute;
+}
